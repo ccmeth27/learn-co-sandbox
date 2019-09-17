@@ -1,0 +1,5 @@
+var greeting = "Hello!"
+
+function say(greeting, firstName) {
+  console.log(`${greeting}, ${firstName}!`)
+}
